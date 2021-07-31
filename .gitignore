@@ -1,0 +1,9 @@
+/.vs/
+/x64/
+/ipch/
+/Debug/
+/removed/
+/Sniffer/Debug/
+/Sniffer/x64/
+*.VC.db
+*.VC.opendb
